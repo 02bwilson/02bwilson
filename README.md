@@ -7,5 +7,9 @@
 
 👋 Welcome to my GitHub! 
 
-I am Currently pursuing a major in computer science along with a minor in mathematics, I'm on a journey to deepen my understanding of the digital realm and its underlying mathematical foundations. 
-I am interested in digital signal processing, number theory, and Fourier analysis.
+I am Currently pursuing a major in computer science along with a minor in mathematics at Penn State Univeristy, I'm on a journey to deepen my understanding of the digital realm and its underlying mathematical foundations. 
+
+I am interested in:
+  - Digital Signal Processing
+  - Number Theory
+  - Fourier Analysis
