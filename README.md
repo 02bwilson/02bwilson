@@ -5,4 +5,7 @@
 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-👋 Welcome to my GitHub! Currently pursuing a major in computer science along with a minor in mathematics, I'm on a journey to deepen my understanding of the digital realm and its underlying mathematical foundations. I am interested in digital signal processing, number theory, and fourier analysis.
+👋 Welcome to my GitHub! 
+
+I am Currently pursuing a major in computer science along with a minor in mathematics, I'm on a journey to deepen my understanding of the digital realm and its underlying mathematical foundations. 
+I am interested in digital signal processing, number theory, and Fourier analysis.
