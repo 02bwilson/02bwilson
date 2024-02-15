@@ -7,8 +7,3 @@
 
 👋 Welcome to my GitHub! 
 
-I am Currently pursuing a major in computer science along with a minor in mathematics at Penn State University.
-I am interested in:
-  - Digital Signal Processing
-  - Number Theory
-  - Fourier Analysis
